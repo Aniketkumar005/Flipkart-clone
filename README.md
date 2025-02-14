@@ -34,7 +34,7 @@ flipkart-clone/
 ```
 
 ## 🎨 Screenshots
-_Add screenshots here if needed._
+![Fake Flipkart Screenshot](assets/images/fake_flipkart_screenshot.png)
 
 ## 👥 Contributing
 Contributions are welcome! Feel free to fork the repo and submit pull requests.
