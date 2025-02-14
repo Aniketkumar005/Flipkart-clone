@@ -34,7 +34,14 @@ flipkart-clone/
 ```
 
 ## 🎨 Screenshots
-![Fake Flipkart Screenshot](assets/images/fake_flipkart_screenshot.png)
+### 🖼️ Home Page
+![Flipkart Clone Home Page](assets/images/flipkart_clone_home.png)
+
+### 🔍 Search Results Page
+![Flipkart Clone Search Results](assets/images/flipkart_clone_search.png)
+
+### 🛒 Product Details Page
+![Flipkart Clone Product Page](assets/images/flipkart_clone_product.png)
 
 ## 👥 Contributing
 Contributions are welcome! Feel free to fork the repo and submit pull requests.
