@@ -3,16 +3,23 @@
 A simple Flipkart clone built using HTML and CSS to replicate the UI of the e-commerce platform.
 
 ## 🌟 Features
+
 - 🌐 **Responsive design** for different screen sizes
+
 - 🔍 **Navbar** with a search bar and icons
+
 - 💎 **Styled product cards** with a grid layout
+
 - 🌐 **Footer** with multiple sections
 
 ## ⚛️ Technologies Used
+
 - ✨ HTML5
+  
 - 👨‍💻 CSS3
 
 ## 🛠️ Installation
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/flipkart-clone.git
@@ -34,7 +41,9 @@ flipkart-clone/
 ```
 
 ## 👥 Contributing
+
 Contributions are welcome! Feel free to fork the repo and submit pull requests.
 
 ## ⚖️ License
+
 This project is open-source and available under the MIT License.
